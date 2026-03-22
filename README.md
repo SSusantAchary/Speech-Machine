@@ -4,6 +4,12 @@
 
 Speech-Machine is an AI-assisted speech practice and review platform for recorded sessions, uploaded videos, transcripts, delivery analytics, and guided reading practice.
 
+## Sample UI
+
+Below is a sample Speech-Machine screen showing the product layout and session statistics view.
+
+![Speech-Machine Sample UI](./Screenshot_Speech_Machine.png)
+
 ## What It Does
 
 - Records practice videos in the browser with camera and microphone selection.
